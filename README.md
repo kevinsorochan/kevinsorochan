@@ -1,4 +1,4 @@
-### Oh, hello my fellow potato 👋
+### Oh, hello 👋
 
 - 🔭 I’m currently working on variations in whale food for marine mammal conservation
 
