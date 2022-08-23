@@ -1,6 +1,6 @@
 ### Oh, hello 👋
 
-- 🔭 I’m currently working on variations in whale food for marine mammal conservation objectives
+- 🔭 I’m currently working on variations in whale food for marine mammal conservation
 
 - 🌱 I’m currently learning (semi) automated classification of plankton images
 
